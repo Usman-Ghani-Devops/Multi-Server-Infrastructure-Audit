@@ -1,0 +1,19 @@
+Multi-Server Infrastructure Audit 
+
+Real companies run audits on hundreds of servers. 
+
+Create a script that collects: 
+
+1. hostname 
+
+2. uptime 
+
+3. CPU load 
+
+4. memory 
+
+5. usage disk usage 7:38 PM 4/21/2026 
+
+6. running services 
+
+7. open ports
